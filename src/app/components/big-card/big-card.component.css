@@ -1,5 +1,5 @@
 .big-card-container {
-    width: 400px;
+    width: 500px;
     height: 500px;
     margin-left: 20px;
     margin-right: 20px;
@@ -22,5 +22,5 @@
 
 .big-card-photo > img {
     width: 100%;
-    min-width: 400px;
+    min-width: 500px;
 }

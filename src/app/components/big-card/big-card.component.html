@@ -2,24 +2,21 @@
     <!-- mocked -->
     <div class="big-card-photo">
         <img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNu3n3yXwM8Y7kbTuTCPS6g8mf4eAlniV6g&usqp=CAU" 
+            src="{{photoCover}}" 
             alt=""
-            height="200px"
+            height="300px"
             
             >
     </div>
 
     <div class="big-card-title">
-        <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+        <h1><a [routerLink]="['content', Id]">{{cardTitle}}</a></h1>
     </div>
 
     <div class="big-card-description">
         <p>
-            <a href="#">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Ducimus aut culpa molestiae debitis eos optio, velit odio error 
-                dicta quis excepturi itaque exercitationem alias nostrum beatae 
-                repudiandae esse recusandae ipsum?
+            <a [routerLink]="['content', Id]">
+                {{ cardDescription }}
             </a>
            
         </p>
