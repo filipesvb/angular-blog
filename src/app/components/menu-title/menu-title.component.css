@@ -1,0 +1,15 @@
+.menu-title-component {
+    color: white;
+}
+
+.menu-title-component > h1 {
+    margin: 10px 0;
+    font-size: 160px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.menu-title-component > hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
