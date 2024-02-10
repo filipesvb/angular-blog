@@ -16,7 +16,7 @@
 .content-cover {}
 
 .content-cover > img {
-    border: 5px solid rgb(90, 90, 90);
+    border: 5px solid rgba(190, 190, 190, 0.3q);
     border-radius: 25px;
     width: 500px;
     min-width: 500px;
@@ -25,9 +25,29 @@
 
 .content-description {
     margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    min-width: 50%;
+    max-width: 70%;
 }
 
 .content-description > p {
     margin-top: 15px;
+    text-align: center;
     color: rgb(197, 197, 197);
+}
+
+.content-description > a {}
+
+.content-text {
+    margin-top: 5rem;
+    width: 70%;
+    white-space-collapse: break-spaces;
+}
+
+.content-text::first-letter {
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 3px;
 }

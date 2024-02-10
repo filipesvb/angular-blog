@@ -1,5 +1,5 @@
 .small-card-container {
-    width: 600px;
+    width: 650px;
     margin-bottom: 15px;
 }
 
@@ -9,9 +9,16 @@
 }
 
 .small-card-photo > img {
-    width: 200px;
+    width: 300px;
     min-width: 200px;
+    min-height: 200px;
     margin-right: 1rem;
+}
+
+.small-card-cardsContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 .small-card-title {
@@ -20,6 +27,39 @@
     align-items: center;
 }
 
+.small-card-title > h1{
+    font-size: 24px;
+    padding: 10px 2%;
+}
+
+.small-card-description {
+    padding: 0 2%;
+}
+
+.small-card-description > p > a {
+    color: rgb(180, 180, 180);
+    
+}
+
+.small-card-tags {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 2%;
+    
+
+}
+
+.small-card-tags > span {
+    color: rgb(180, 180, 180);
+}
+
 .small-card-separator {
     margin-top: 10px;
+}
+
+.small-card-separator > hr {
+    border-color: rgb(110, 110, 110);
 }

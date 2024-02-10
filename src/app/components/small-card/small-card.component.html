@@ -9,9 +9,25 @@
                 >
         </div>
     
-        <div class="small-card-title">
-            <h1><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h1>
+        <div class="small-card-cardsContainer">
+            <div class="small-card-title">
+                <h1><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h1>
+            </div>
+    
+            <div class="small-card-description">
+                <p>
+                    <a [routerLink]="['content', Id]">
+                        {{ cardDescription }}
+                    </a>
+                </p>
+            </div>
+
+            <div class="small-card-tags">
+                <span>{{ cardAuthor }}</span>
+                <span>{{ cardCategory }}</span>
+            </div>
         </div>
+        
     </div>
     
     <div class="small-card-separator">
