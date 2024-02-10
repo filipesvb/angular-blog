@@ -1,27 +1,46 @@
-# AngularBlog
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## Sobre o projeto
+Projeto de um blog, criado com o Angular, versão 14.1.2. Parte do bootcamp Angular (DIO - Banco PAN).
 
-## Development server
+## Habilidades exercitadas no projeto
+<div style="display: inline-block">
+  <img alt="HTML" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+  <img alt="CSS" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+  <img alt="Javascript" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img alt="Typescript" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+  <img alt="Angular" width="30" height="30" src="https://static-00.iconduck.com/assets.00/angular-icon-483x512-3apnmqn2.png" />
+  <img alt="Git" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+</div>
+Para a construção, estilização e organização do blog foram utilizadas as linguagens de desenvolvimento web (HTML, CSS e Javascript), o Typescript e o framework Angular. E para o controle de versionamento e upload no github, utilizou-se o Git.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Recursos
+O design do blog foi baseado no layout criado por Dwinawan, disponível no Dribbble.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Mais sobre mim
+<a href="https://www.linkedin.com/in/filipe-vilas-bôas-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/filipesvb" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" target="_blank" /></a>
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## About the project
+A blog project, made with Angular version 14.1.2. Part of the Angular bootcamp (DIO - Banco PAN)
 
-## Running unit tests
+## Abilities exercised with the project
+<div style="display: inline-block">
+  <img alt="HTML" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+  <img alt="CSS" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+  <img alt="Javascript" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img alt="Typescript" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+  <img alt="Angular" width="30" height="30" src="https://static-00.iconduck.com/assets.00/angular-icon-483x512-3apnmqn2.png" />
+  <img alt="Git" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+</div>
+For the construction, stylization and organization of the blog, the following were used: web development languages (HTML, CSS and Javascript), Typescript and the Angular framework. For version control and github upload, Git was used.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Resources
+The design of the blog was based on the layout made by Dwinawan, available on Dribbble.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## More about me
+<a href="https://www.linkedin.com/in/filipe-vilas-bôas-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/filipesvb" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" target="_blank" /></a>
